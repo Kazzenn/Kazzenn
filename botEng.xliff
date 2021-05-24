@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="8" original="/bot.json" source-language="th" target-language="en" datatype="plaintext" project-id="456326" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="46" resname="._from">
+        <source>node-fetch@^2.6.1</source>
+        <target state="translated">node-fetch@^2.6.1</target>
+        <note from="Crowdin" priority="2"> -&gt; _from</note>
+      </trans-unit>
+      <trans-unit id="48" resname="._id">
+        <source>node-fetch@2.6.1</source>
+        <target state="translated">node-fetch@2.6.1</target>
+        <note from="Crowdin" priority="2"> -&gt; _id</note>
+      </trans-unit>
+      <trans-unit id="50" resname="._bot">
+        <source>English</source>
+        <target state="translated">English</target>
+        <note from="Crowdin" priority="2"> -&gt; _bot</note>
+      </trans-unit>
+      <trans-unit id="52" resname=".title">
+        <source>title{0}</source>
+        <target state="translated">title{0}</target>
+        <note from="Crowdin" priority="2"> -&gt; title</note>
+      </trans-unit>
+      <trans-unit id="54" resname=".discription">
+        <source>discription{1}</source>
+        <target state="translated">discription{1}</target>
+        <note from="Crowdin" priority="2"> -&gt; discription</note>
+      </trans-unit>
+      <trans-unit id="56" resname=".footer">
+        <source>type{0}</source>
+        <target state="translated">type{0}</target>
+        <note from="Crowdin" priority="2"> -&gt; footer</note>
+      </trans-unit>
+      <trans-unit id="58" resname=".addfield">
+        <source>Add field</source>
+        <target state="translated">Add field</target>
+        <note from="Crowdin" priority="2"> -&gt; addfield</note>
+      </trans-unit>
+      <trans-unit id="60" resname=".:white_check_mark: Success">
+        <source>เรียบร้อย, ได้แล้ว,</source>
+        <target state="translated">success</target>
+        <note from="Crowdin" priority="2"> -&gt; :white_check_mark: Success</note>
+      </trans-unit>
+      <trans-unit id="62" resname=".:hourglass_flowing_sand: Please wait">
+        <source>รอสักครู่</source>
+        <target state="translated">Please</target>
+        <note from="Crowdin" priority="2"> -&gt; :hourglass_flowing_sand: Please wait</note>
+      </trans-unit>
+      <trans-unit id="64" resname=".red">
+        <source>สีแดง</source>
+        <target state="translated">red</target>
+        <note from="Crowdin" priority="2"> -&gt; red</note>
+      </trans-unit>
+      <trans-unit id="66" resname=".green">
+        <source>สีเขียว</source>
+        <target state="translated">green</target>
+        <note from="Crowdin" priority="2"> -&gt; green</note>
+      </trans-unit>
+      <trans-unit id="68" resname=".blue">
+        <source>สีฟ้า</source>
+        <target state="translated">blue</target>
+        <note from="Crowdin" priority="2"> -&gt; blue</note>
+      </trans-unit>
+      <trans-unit id="70" resname=".purple">
+        <source>สีม่วง</source>
+        <target state="translated">purple</target>
+        <note from="Crowdin" priority="2"> -&gt; purple</note>
+      </trans-unit>
+      <trans-unit id="72" resname=".yellow">
+        <source>สีเหลือง</source>
+        <target state="translated">yellow</target>
+        <note from="Crowdin" priority="2"> -&gt; yellow</note>
+      </trans-unit>
+      <trans-unit id="74" resname=".hex corlor">
+        <source>จัดลำดับสีตามฐาน 16 (Hex Color)</source>
+        <target state="translated">Hex Color</target>
+        <note from="Crowdin" priority="2"> -&gt; hex corlor</note>
+      </trans-unit>
+      <trans-unit id="76" resname=".say">
+        <source>say ${0}</source>
+        <target state="translated">พูด ${0}</target>
+        <note from="Crowdin" priority="2"> -&gt; say</note>
+      </trans-unit>
+      <trans-unit id="78" resname=".say user">
+        <source>say ${1}</source>
+        <target state="translated">พูด ${1}</target>
+        <note from="Crowdin" priority="2"> -&gt; say user</note>
+      </trans-unit>
+      <trans-unit id="80" resname=".say bot">
+        <source>say &lt;@$authorID&gt; ${0}</source>
+        <target state="translated">พูด &lt;@$authorID&gt; ${0}</target>
+        <note from="Crowdin" priority="2"> -&gt; say bot</note>
+      </trans-unit>
+      <trans-unit id="82" resname=".embed 1" translate="no">
+        <source></source>
+        <target state="translated">[empty string]</target>
+        <note from="Crowdin" priority="2"> -&gt; embed 1</note>
+      </trans-unit>
+      <trans-unit id="84" resname=".embed 2" translate="no">
+        <source></source>
+        <target state="translated">[empty string]</target>
+        <note from="Crowdin" priority="2"> -&gt; embed 2</note>
+      </trans-unit>
+      <trans-unit id="86" resname=".embed 3" translate="no">
+        <source></source>
+        <target state="translated">[empty string]</target>
+        <note from="Crowdin" priority="2"> -&gt; embed 3</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
