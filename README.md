@@ -6,11 +6,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Language 
- 
-JAVASCRIPT (Main)
-TYPESCRIPT (Main)
-HTML (Main)
-PHP
-PYTHON
+  -JAVASCRIPT (Main)
+  -TYPESCRIPT (Main)
+  -HTML (Main)
+  -PHP
+  -PYTHON
 
 
