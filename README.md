@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kazzenn
-- 👀 
-- 🌱 I’m currently learning JS PY Vue Html CSS
+- 👀 I'm from Thailand
+- 🌱 I’m currently learning for 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
