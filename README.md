@@ -6,10 +6,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Language 
-  -JAVASCRIPT (Main)
-  -TYPESCRIPT (Main)
-  -HTML (Main)
-  -PHP
-  -PYTHON
+  -JAVASCRIPT NODEJS 
+  -HTML BOOTSTRAP
+  -PY 
 
 
