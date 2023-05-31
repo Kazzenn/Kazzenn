@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABlender_logo_no_text.svg&psig=AOvVaw2dKKOgtFW-pzWFGqdL5Pna&ust=1685632559551000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDn7-Dsn_8CFQAAAAAdAAAAABAE" width="36" height="36" alt="Blender" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="36" height="36" alt="Blender" /></a>
 </p>
 
 
