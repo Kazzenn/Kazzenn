@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 
 * 🌍  Arch TU
+* 🌍  CE NU
 * ✉️  You can contact me at [dewwasin0053@gmail.com](mailto:dewwasin0053@gmail.com)
 
 ### Skills
