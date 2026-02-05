@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kazzenn
 ===============================================================================================================================
 
-* 🌍  Arch TU
 * 🌍  IT NU
 * ✉️  Contact [dewwasin0053@gmail.com](mailto:dewwasin0053@gmail.com)
 
@@ -18,7 +17,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="36" height="36" alt="Blender" /></a>
 </p>
 
+<a href="/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="36" height="36" alt="React" /></a>
+</p>
 
+<a href="/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/3915/PNG/512/vite_logo_icon_249258.png" width="36" height="36" alt="React" /></a>
+</p>
 
 
 ### Socials
